@@ -1,0 +1,23 @@
+{
+  "name": "css3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuimengkai/css3.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuimengkai/css3/issues"
+  },
+  "homepage": "https://github.com/cuimengkai/css3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
